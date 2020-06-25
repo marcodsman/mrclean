@@ -2,3 +2,16 @@
   font-weight: bold;
   font-size: xx-large;
 }
+.nav-link {
+  color: #43b150 !important;
+}
+.nav-link:hover {
+  color: #32863c !important;
+}
+
+a {
+  color: #43b150;
+}
+a:hover {
+  color: #32863c;
+}
